@@ -54,7 +54,8 @@ See [INSTALLATION.md](INSTALLATION.md) for step-by-step instructions on setting 
 
 ## 🧑‍🎨 Credits
 
-- 👨‍💻 **Developer**: Zeaaa  
+- 👨‍💻 **Developer**: Zea
+- 🖌️ **Design & UX**: Zea and Elbert.N (My highschool friend)
 - 🎨 **UI/UX**: [KivyMD](https://github.com/kivymd/KivyMD)  
 - 🧠 **Hand Detection & CV**: [cvzone](https://github.com/cvzone/cvzone), [OpenCV](https://opencv.org/)  
 - 🧪 **Model Training**: [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)  
