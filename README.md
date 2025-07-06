@@ -20,8 +20,7 @@ I'm uploading this as a form of **documentation** of my early journey into AI an
 ---
 
 ## 📸 Preview
-
-*(Add screenshots or gameplay GIFs here)*
+![UI](https://github.com/user-attachments/assets/5debb1b8-f9cf-404f-aac6-3aba2a0175c1)
 
 ---
 
