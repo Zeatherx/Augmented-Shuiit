@@ -23,12 +23,6 @@ Run `Augmented Shuiit.py` to start the game.
 
 ---
 
-✨ You're all set — enjoy playing **SHUIIT**!  
-🎨 Game created by **Zeaaa**  
-🧠 Model trained with [Teachable Machine](https://teachablemachine.withgoogle.com/)
-
----
-
 ## ⚠️ Common Issue: Camera Feed Not Showing
 
 If the camera doesn't activate, try the following:
