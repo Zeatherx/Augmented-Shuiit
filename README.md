@@ -44,7 +44,7 @@ I'm uploading this as a form of **documentation** of my early journey into AI an
 4. The AI (NPC) randomly picks a move.  
 5. The game compares both choices and determines the winner.
 
-📦 The training dataset was collected using the script `ML_CV_DataAndSampleCollector.py`. The sample data used for training is also included in this repository in Sample folder.
+📦 The training dataset was collected using the script `ML_CV_DataAndSampleCollector.py`.
 
 ---
 
